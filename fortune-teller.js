@@ -1,5 +1,5 @@
 class FortuneTeller {
-    
+
     constructor(firstName, lastName, age, numOfBirthMonth, faveROYGBIV, numOfSiblings) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -9,3 +9,5 @@ class FortuneTeller {
         this.numOfSiblings = numOfSiblings;
     }
 }
+
+export default FortuneTeller 
